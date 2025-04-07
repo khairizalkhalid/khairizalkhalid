@@ -1,6 +1,6 @@
 ### Hi there, I'm Khairizal 👋
 
-I'm a passionate problem solver with a love for learning and creating random stuff be it usefull or useless just for the fun of it.
+I'm a passionate problem solver with a love for learning and creating random stuff be it useful or useless just for the fun of it.
 Yearning for creative expression, I've dabbled in various programming languages and frameworks, and I'm always looking for new challenges to tackle.
 
 ## 💻 Technologies & Tools
