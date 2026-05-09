@@ -19,11 +19,6 @@ Advent of Code 2024 solutions in Rust. 199 commits over 7 months, completing 7 d
 
 Tech: Rust
 
-### [cli](https://github.com/khairizalkhalid/cli)
-Fork of GitHub CLI with custom CA certificate bundle support for self-signed certificates. Full TUI implementation using Charm libraries.
-
-Tech: Go, Cobra, Charm
-
 ### [rusty_hn](https://github.com/khairizalkhalid/rusty_hn)
 Terminal-based Hacker News reader with clean TUI interface.
 
@@ -43,6 +38,11 @@ Tech: Go
 Angular 18 starter template with authentication, HTTP interceptors, and clean architecture for portal applications.
 
 Tech: Angular 18, TypeScript, RxJS
+
+### [cli](https://github.com/khairizalkhalid/cli)
+Just a fork of GitHub CLI to add custom CA certificate bundle support for self-signed certificates for internal network usage.
+
+Tech: Go
 
 Other projects include an Axum backend implementation, homebrew tap for distribution, neovim configuration, Advent of Code 2023 solutions in C, and various private work projects in enterprise systems.
 
